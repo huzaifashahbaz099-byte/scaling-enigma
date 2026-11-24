@@ -1,0 +1,8 @@
+101|Ali Khan|26|M|Fever
+102|Sara Malik|32|F|Diabetes Type 2
+103|Bilal Raza|45|M|Asthma
+104|Zara Noor|68|F|Arthritis
+105|Hamza Tariq|19|M|Migraine
+106|Ayesha Siddiqui|29|F|Flu
+107|Usman Farooq|54|M|Hypertension
+108|Hina Malik|41|F|Allergy
